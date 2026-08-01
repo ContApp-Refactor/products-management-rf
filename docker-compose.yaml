@@ -1,6 +1,6 @@
 services:
   products-management-rf:
-    image: jeserna/products-management-rf:v0.0.27
+    image: jeserna/products-management-rf:v1.0.305
     container_name: products-management-rf
     env_file:
       - ${SECRETS_DIR:-/opt/secrets}/common-configs.env
