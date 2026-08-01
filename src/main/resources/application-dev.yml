@@ -95,7 +95,7 @@ file-upload:
     excel:
       - "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
       - "application/vnd.ms-excel"
-
+ 
 management:
   endpoint:
     health:
